@@ -1,2 +1,2 @@
-# Meal-Wizard
+# meal-wizard
 Major Project

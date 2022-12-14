@@ -1,1 +1,12 @@
 /* styles for Meal Wizard */
+
+#title {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 35px;
+  font-size: 77px;
+}
+#homeButton {
+   width: 33%;
+  margin: auto;
+}
